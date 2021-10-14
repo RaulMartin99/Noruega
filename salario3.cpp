@@ -15,7 +15,7 @@ int main () {
 	double salario_bruto;
 	double nomina;
 	double gastos_totales;
-	
+	double retencion
 	cout<< "Introduce tu nomina";
 	cin>> nomina;
 	cout<< "Introduce factura del agua";
